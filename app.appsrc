@@ -1,0 +1,22 @@
+{
+	    "name" : "Easy Sign Source" ,
+	    "identifier" : "com.dunkeyyfong.esign" ,
+	    "sourceURL" : "dunkeyfong123.github.io/app.json" ,
+	    "apps" :[
+	        {
+	            "name" : "Easy Sign-ESign" ,
+	            "bundleIdentifier" : "p3.xyz.yyyue.esign" ,
+	            "developerName" : "yyy" ,
+	            "version" : "4.7.7.3" ,
+	            "versionDate" : "2023 -02-25T22:30:00+08:00" ,
+	            "versionDescription" : "Hỗ trợ sao lưu và khôi phục dữ liệu ứng dụng (iOS15-15.7.1 và 16.0-16.1.2, ứng dụng->cài đặt->sao lưu dữ liệu)\n Sửa lỗi\nHỗ trợ sao lưu và khôi phục dữ liệu ứng dụng (iOS15-15.7.1 và 16.0-16.1.2)\nsửa lỗi" ,
+	            "downloadURL" : "https://pan.yyyue.xyz/d/esign/esign_4.7.7.3_unsigned.ipa" ,
+	            "localizedDescription" : "Easy sign là một công cụ có thể ký ipa mà không cần bẻ khóa. Nó có chức năng thêm thư viện, xóa thư viện, v.v. " ,
+	            "iconURL" : "https://esign.yyyue.xyz/ESignLogo200.png" ,
+	            "tintColor" : "018084" ,
+	            "isLanZouCloud" : 0 ,
+	            "size" : 7206362 ,
+	            "type" : 1
+	        }
+	    ]
+}
